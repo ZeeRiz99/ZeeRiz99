@@ -7,7 +7,7 @@ and automating workflows.
 - 🔭 Currently building **FleetLog AI** — an AI fleet log assistant that understands Urdu voice notes,
   alerts before breakdowns and books the workshop (WhatsApp + Android + web)
 - 💼 Open to freelance projects and AI engineering roles
-- 📫 zeebrilliant@gmail.com · [www.linkedin.com/in/muhammad-zahid-9079b418)
+- 📫 zeebrilliant@gmail.com · [LinkedIn](https://www.linkedin.com/in/muhammad-zahid-9079b418)
 
 ## 🚀 Featured projects
 
@@ -22,11 +22,11 @@ and automating workflows.
 
 ## 🛠️ What I work with
 
-**AI/ML:** Python · scikit-learn · XGBoost · YOLO (computer vision) · NLP · RAG · LLM APIs · AI agents
-**Backend:** FastAPI · Node.js · SQLite / PostgreSQL · REST APIs
-**Android apps:** Kotlin (Jetpack Compose) · React Native (Expo)
-**Websites:** Next.js · TypeScript · Tailwind CSS
-**Automation:** n8n · WhatsApp Cloud API · webhooks
+- **AI/ML:** Python · scikit-learn · XGBoost · YOLO (computer vision) · NLP · RAG · LLM APIs · AI agents
+- **Backend:** FastAPI · Node.js · SQLite / PostgreSQL · REST APIs
+- **Android apps:** Kotlin (Jetpack Compose) · React Native (Expo)
+- **Websites:** Next.js · TypeScript · Tailwind CSS
+- **Automation:** n8n · WhatsApp Cloud API · webhooks
 
 ## 🤝 How I can help
 
