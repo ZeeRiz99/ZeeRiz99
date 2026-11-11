@@ -1,13 +1,13 @@
 # Hi, I'm Muhammad Zahid 👋
 
-**AI Engineer & App Developer** — I build AI agents, chatbots, ML models, Android apps and websites
+**AI Automation & Full Stack Developer** — I build AI agents, chatbots, ML models, Android apps and websites
 that solve real business problems: predicting breakdowns, answering customers, booking appointments,
 and automating workflows.
 
 - 🔭 Currently building **FleetLog AI** — an AI fleet log assistant that understands Urdu voice notes,
   alerts before breakdowns and books the workshop (WhatsApp + Android + web)
-- 💼 Open to freelance projects and AI engineering roles
-- 📫 zeebrilliant@gmail.com · [LinkedIn](https://www.linkedin.com/in/muhammad-zahid-9079b418)
+- 💼 Open to freelance projects
+- 📫 zeebrilliant@gmail.com · [LinkedIn](https://www.linkedin.com/in/muhammadzahid-ai)
 
 ## 🚀 Featured projects
 
