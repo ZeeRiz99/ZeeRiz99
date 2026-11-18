@@ -14,6 +14,7 @@ and automating workflows.
 | Project | What it does | Stack |
 |---|---|---|
 | **[AI Fleet Management](https://github.com/ZeeRiz99/AI-Fleet-Management-Maintenance)** · [Live demo](https://ai-fleet-management.streamlit.app/) · [Android APK](https://github.com/ZeeRiz99/AI-Fleet-Management-Maintenance/releases/latest) | Predicts vehicle breakdowns (XGBoost + SHAP), detects fuel theft, estimates PKR savings; web dashboard, REST API and Android app | Python · XGBoost · FastAPI · Streamlit · Kotlin |
+| **[CiteBase](https://github.com/ZeeRiz99/CiteBase)** | Self-hosted AI knowledge base: upload documents, ask in plain language, get answers with citations that open the exact page; says so when the documents lack the answer. Reads scans and photos with OCR; team roles | Python · FastAPI · Next.js · PostgreSQL · pgvector |
 | **[Eagle Eye Tracker](https://github.com/ZeeRiz99/Eagle-Eye-Tracker)** | Student safety mobile app: real-time location, SOS alerts, crash detection and geofencing for parents | Node.js · Socket.io · PostGIS · React Native |
 | **[Simple RAG Pipeline](https://github.com/ZeeRiz99/-Simple-RAG-Pipeline)** | Ask questions about your PDFs with retrieval-augmented generation | Python · LLMs · RAG |
 | **[Brain Tumor Detection](https://github.com/ZeeRiz99/BrainTumorDetection)** | Detects tumors in MRI scans with a fine-tuned YOLOv11 model | Python · YOLOv11 · FastAPI · Streamlit |
