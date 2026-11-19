@@ -24,7 +24,6 @@ I build AI agents, chatbots, ML models, Android apps and websites that solve rea
 | [AI Fleet Management](https://github.com/ZeeRiz99/AI-Fleet-Management-Maintenance) · [Live demo](https://ai-fleet-management.streamlit.app/) · [Android APK](https://github.com/ZeeRiz99/AI-Fleet-Management-Maintenance/releases/latest) | Predicts vehicle breakdowns (XGBoost + SHAP), detects fuel theft, estimates PKR savings; web dashboard, REST API and Android app | Python · XGBoost · FastAPI · Streamlit · Kotlin |
 | [Eagle Eye Tracker](https://github.com/ZeeRiz99/Eagle-Eye-Tracker) | Student safety mobile app: real-time location, SOS alerts, crash detection and geofencing for parents | Node.js · Socket.io · PostGIS · React Native |
 | [DubaiWeeklys](https://github.com/ZeeRiz99/DubaiWeeklys) | Bilingual (English/Arabic, RTL) lifestyle magazine website with SEO | Next.js · TypeScript · Tailwind |
-| [Brain Tumor Detection](https://github.com/ZeeRiz99/BrainTumorDetection) | Educational demo: detects tumors in MRI scans with a fine-tuned YOLOv11 model (not for medical use) | Python · YOLOv11 · FastAPI · Streamlit |
 
 More on my [repositories tab](https://github.com/ZeeRiz99?tab=repositories).
 
