@@ -4,9 +4,7 @@
 
 I build AI agents, chatbots, ML models, Android apps and websites that solve real business problems: predicting breakdowns, answering customers, booking appointments, and automating workflows.
 
-[Upwork](https://www.upwork.com/freelancers/~01c413fbfcc34678c6) · [Fiverr](https://www.fiverr.com/mzahid364) · [LinkedIn](https://www.linkedin.com/in/muhammadzahid-ai) · [zeebrilliant@gmail.com](mailto:zeebrilliant@gmail.com)
-
-💼 Open to freelance projects
+> 💼 **Open to freelance projects — hire me on** [**Upwork**](https://www.upwork.com/freelancers/~01c413fbfcc34678c6) · [**Fiverr**](https://www.fiverr.com/mzahid364) · [**LinkedIn**](https://www.linkedin.com/in/muhammadzahid-ai) or email [zeebrilliant@gmail.com](mailto:zeebrilliant@gmail.com)
 
 ## 🤝 How I can help
 
